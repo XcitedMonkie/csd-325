@@ -28,7 +28,7 @@ GROW_CHANCE = 0.01  # Chance a blank space turns into a tree.
 FIRE_CHANCE = 0.01  # Chance a tree is hit by lightning & burns.
 
 # (!) Try setting the pause length to 1.0 or 0.0:
-PAUSE_LENGTH = 0.5
+PAUSE_LENGTH = 1
 
 
 def main():
